@@ -86,6 +86,7 @@ npx cucumber-js
 
 - Estrutura e sintaxe do Gherkin (Feature, Scenario, Given/When/Then/And)
 - Diferença entre `Scenario Outline` + `Examples` e `Data Table`
+- Uso de Hooks, para executar funções antes e após cenários
 - Boas práticas de escrita de cenários (nível de abstração de negócio, dados reais em vez de descrições)
 - Integração entre especificação (`.feature`) e código de automação (step definitions) via Cucumber.js
 - Validação de API REST: status code e estrutura de resposta JSON
